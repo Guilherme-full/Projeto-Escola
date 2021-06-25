@@ -1,0 +1,16 @@
+19731 ADAILTON JOSE DA SILVA            A  91,5  adailton.silva@etec.sp.gov.br      24/03/1976  ELZA GALHARDO
+19705 ANTONIO CESAR DA SILVA SANTOS     B  97,4  antonio.santos@etec.sp.gov.br      12/12/2000  JOSE SANTOS
+19573 ARNALDO ANDRADE DE FRANCA         A  67,6  arnaldo.franca@etec.sp.gov.br      13/01/1999  CAMILA FRANCA
+19695 BEATRIZ BASSANI MARTINS           B  96,1  beatriz.martins@etec.sp.gov.br     01/01/2000  BENEDETTO MARTINS
+19562 BRUNA RODRIGUES COSTA NUNES       A  85,8  bruna.nunes@etec.sp.gov.br         25/12/2003  JOSE NUNES
+19557 CARLOS ROBERTO DO NASCIMENTO      B  88,2  carlos.nascimento@etec.sp.gov.br   04/06/2005  MARCELO NASCIMENTO
+19647 DANIEL LISBOA SILVA               B  81,5  danile.silva@etec.sp.gov.br        11/11/2007  DANIEL SILVA
+19509 DAVI AQUILA LIMA RAMOS            A  58,0  davi.ramos@etec.sp.gov.br          12/03/1983  MATEUS RAMOS
+19715 DAVID GOMES DA SILVA              B  87,2  david.silva@etec.sp.gov.br         09/01/2001  VERA SILVA
+19534 DIOGO DE OLIVEIRA VIEIRA          A  81,9  diogo.vieira@etec.sp.gov.br        11/11/2001  DANIEL VIEIRA
+19654 ERIC FERNANDO SANTANA SANTOS      B  83,4  eric.santos@etec.sp.gov.br         31/01/2004  MANOEL SANTOS
+19686 EWERTHON RODRIGO DA SILVA LIMA    A  01,4  ewerthon.lima@etec.sp.gov.br       28/02/1997  JOANA LIMA
+19613 FELIPE DA ROCHA SILVA             B  94,2  felipe.silva@etec.sp.gov.br        31/07/2002  MARIA FATIMA SILVA
+19621 FERNANDO RICARTE DA CRUZ          A  96,1  fernando.cruz@etec.sp.gov.br       07/07/2000  CASSIA CRUZ
+19667 GABRIEL HENRIQUE DA SILVA MOURA   B  86,3  gabriel.moura@etec.sp.gov.br       23/11/2004  NOEMIA MATIAS MOURA
+22222 GUILHERME XAVIER SOUZA            C        guilhermexavier@gmail.com          23/11/2004  ELIEUDA XAVIER

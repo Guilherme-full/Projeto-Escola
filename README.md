@@ -23,6 +23,11 @@ from datetime import datetime
 from Biblioteca import *
 ```
 
+## Arquivo .txt utilizado
+```
+CadAluno.txt
+```
+
 ## Funções
 ```
 turma = []

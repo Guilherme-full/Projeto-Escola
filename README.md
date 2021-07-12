@@ -1,8 +1,8 @@
 # Projeto Escola (Guilherme Xavier Souza)
 
-## Download do Projeto
+## Comando Para Clonar Repositório
 ```
-gh repo clone Guilherme-full/Projeto-Escola
+git clone https://github.com/Guilherme-full/Projeto-Escola.git
 ```
 
 |          | Linux | macOS | Windows |
